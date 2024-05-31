@@ -26,4 +26,7 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Para abrir e rodar o projeto, basta acessar o link https://conecttheo.github.io/Site-Culturama_Flexbox/.
+
+
+![Captura de tela 2024-05-31 112005](https://github.com/conecttheo/Site-Culturama_Flexbox/assets/127543588/42667e0d-7795-43db-b0db-25f0d4d5049d)
